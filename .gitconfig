@@ -1,0 +1,14 @@
+[user]
+	email = ray.e.dino@gmail.com
+	name = Ray Dino
+[alias]
+	st = status
+	co = checkout
+	ci = commit
+	df = diff
+	ad = add -A
+	br = branch
+[credential]
+	helper = cache --timeout=28800
+[push]
+	default = current
