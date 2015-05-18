@@ -21,7 +21,7 @@ set ignorecase
 " Enable mouse "
 set mouse=a
 " Draw line at column 101"
-set colorcolumn=101
+set colorcolumn=80
 " Open splits to the right and below "
 set splitbelow
 set splitright
