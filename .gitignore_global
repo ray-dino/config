@@ -1,2 +1,5 @@
+*.pyc
 *.swp
+*.swo
+*.env
 .DS_Store
